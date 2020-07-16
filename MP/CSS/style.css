@@ -1,0 +1,326 @@
+
+#img {height: 400px; width: 1500px;}
+
+
+img#noresult{width: 800px; margin: 0px 200px; background-color: white;}
+
+.modal-body{font-style: normal; font-size: 20px;}
+#butyes{background-color: #ffc107; border-color: white;}
+
+#imgproduct{width: 260px; padding: 20px;}
+#imgtitle{color: black;}
+#imgcart{width: 140px;}
+
+#propic:hover {width: 300px; box-shadow: 8px 8px tan ;}
+
+select#exampleFormControlSelect4{ width: 80px; margin-left: 200px; opacity: 0.5;}
+select#exampleFormControlSelect4:hover{opacity: 1;background-color: #ffc107}
+
+#butproductde{width: 200px; height: 80px; font-size: 30px; padding: 10px 20px; margin-left: 20px;}
+
+#link:hover{padding-left: 10px; font-size: 20px;}
+#link1:hover{padding-left: 10px;}
+a#link4 { margin-left: 1150px; color: black; font-size: 15px;}
+a#link4:hover{padding-left: 10px; font-size: 20px;}
+
+div.custom-control.custom-radio {margin: 0px 100px;  }
+div.custom-control.custom-radio:hover {color: #ffc107; font-size: 30px;}
+.ptest:hover{color: black; font-size: 20px; box-shadow: 8px 8px tan ; font-family: 'Montserrat';
+ }
+
+h2:hover{color: tan;}
+
+input[type='radio']:checked { position: relative; top:-10px; left: -10px; }
+
+
+textarea#exampleFormControlTextarea1{width: 400px; margin: 0px 20px; }
+textarea#exampleFormControlTextarea1:focus{ box-shadow: 8px 8px tan; position: relative;bottom:-10px;}
+
+select#exampleFormControlSelect1{width: 100px;}
+
+iframe{margin: 10px 50px;}
+
+a#butproduct{font-size: 15px; margin: 0px 10px; opacity: 0.8 ; margin-left: 20px;color: #ffc107;}
+a#butproduct:hover{ opacity: 1; color: white;}
+
+label:hover{color: tan;}
+
+div.card{width: 1400px; padding: 00px 00px; margin-left: 30px; border-top: 20px solid gray;}
+div.card1{ width: 400px; padding: 10px 20px; margin: 20px 40px;}
+div.card2{ padding: 10px 0px; margin: 20px 0px;}
+div.card3{ padding: 10px 40px; margin: 20px 40px;width: 300px;}
+
+
+#butcard {font-size: 20px;text-align: center; left: 50px;}
+#butaccount{margin-left: 1250px;}
+#butcheckout{margin-left: 1300px; opacity: 0.8; background-color: white; color: black;}
+#butcheckout:hover{ opacity: 1; background-color: #ffc107; border-color: white; }
+#butdisc{opacity: 0.8; background-color: white; color: black;}
+#butdisc:hover{ opacity: 1; background-color: #ffc107; border-color: white; }
+#butconfirm{margin-left: 700px; opacity: 0.8; background-color: white; color: black;}
+#butconfirm:hover{ opacity: 1; background-color: #ffc107; border-color: white; }
+#butclose{background-color: white;}
+
+.form-row{padding: 0px 100px; margin: 0px 40px;}
+
+p.card-text{font-size: 20px; text-align: center}
+
+p.card-text1{font-size: 15px; font-style: italic; color: gray;}
+p.card-text1:hover{font-size: 20px; font-style: normal;; color: black;box-shadow: 8px 8px tan;position: relative;left: -20px.bottom: -30px;font-family: Montserrat}
+p.card2-text2{font-size: 15px; font-style: italic; color: gray;}
+p.card2-text2:hover{font-size: 20px; font-style: normal;; color: black;box-shadow: 8px 8px tan; font-family: Montserrat ; position: relative;left: -8px;}
+p.card3-text{font-size: 15px; font-style: italic; color: gray;}
+h5.card-title{ text-align: center; font-size: 30px;}
+
+
+h5.card-title2{ text-align: center; font-size: 30px;}
+h5.card3-title {text-align: center; font-size: 30px; color: gray;}
+
+.main-bo{margin-top:200px;padding:15px 30px 150px;font-size:30px;}
+
+h3{color: black; text-align: center;}
+
+h4{color: black; }
+
+span,p {color: gray; font-size: 12px;}
+
+h2{text-align: center; font-size: 40px; color: gray;}
+
+.col .align-self-end{color: gray;}
+
+
+ul { list-style-type: none;} /* remove the point */
+
+#link{color: black;}
+
+a#link1{text-align:center; color: black; padding: 10px 100px ;}
+
+#signinup{ font-size: 15px;}
+
+#tenlogo{font-size: 40px; }
+
+#google{width: 40px; height: 40px;}
+
+div.spinner-border{color: tan;}
+
+footer{
+     width: 100%;
+     background: white;
+     color: gray;
+     font-size: 15px;
+     border-top: 2px solid black;
+     text-align: left;
+}
+
+.dropdown-item .form-control{
+  text-align: center;
+  font-size: 20px;
+}
+
+.navbar-toggler-icon{weight:10px;height: 10px;}
+
+.navbar-toggler:hover, a.nav-link:hover{
+  background-color: tan;
+  opacity: 1;
+}
+
+
+
+.navbar-nav .nav-item{text-align: center;}
+
+
+.dropdown:hover .dropdown-menu , .form-control {
+    display: block;
+    margin-top: 0;
+ }
+
+
+.navbar-nav .nav-item:hover{
+
+  background-color: tan;
+}
+
+.siin{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #303952;
+
+}
+.signin-div {
+  margin: auto;
+  max-height: 800vw;
+  max-width: 900px;
+  padding: 30px;
+  border-left: 50px solid #f39c12;
+  border-radius: 20px;
+  background-color: white;
+}
+.siup{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f39c12;
+
+}
+.siup-div {
+  margin: auto;
+  max-height: 200vw;
+  max-width: 5000px;
+  padding: 30px;
+  border-right: 50px solid #303952;
+  border-radius: 20px;
+  background-color: white;
+}
+h5{
+  max-width: 400px;
+  font-size: 60px;
+  margin: auto;
+  align-content: center;
+}
+.col {
+  color: white;
+
+}
+.ha {
+color: black;
+}
+.logo{sizes: 10px;}
+
+#header {
+  background-color: white;
+  padding: 15px 0px;
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: 0.4s;
+
+}
+
+
+@media screen and (min-width: 601px) {
+  h5.example {
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #303952;
+
+  }
+  h5.example p{
+      font-size: 20px;
+      color:#f39c12;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+  }
+  span.ha  {
+    font-size: 20px;
+  }
+  a.a  {
+  font-size: 20px;
+  }
+a#link{font-size: 15px;}
+
+}
+@media screen and (max-width: 600px) {
+.signin-div {
+    margin: auto;
+    max-height: 800px;
+    max-width: 900px;
+    padding: 10px;
+    border: 5px solid #f39c12;
+    border-radius: 10px;
+    background-color: white;}
+
+.siup-div {
+      margin: auto;
+      max-height: 200vw;
+      max-width: 1000px;
+      padding: 30px;
+      border: 5px solid #303952;
+      border-radius: 20px;
+      background-color: white;
+    }
+  h5.example {
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #303952;
+
+  }
+  h5.example p{
+      font-size: 15px;
+      font-family: 'Montserrat', sans-serif;
+      color:#f39c12;
+      font-style: italic;
+  }
+  #link{font-size: 15px;}
+
+
+span.ha {
+    font-size: 14px;
+  }
+
+a.a { font-size: 14px;  }
+#header{padding: 10px 0px;}
+
+
+
+a.nav-link{ font-size: 20px;}
+
+a.dropdown-item{font-size: 20px;}
+
+nav.navbar{text-align: center;}
+
+#signinup{ font-size: 20px;}
+
+#img{ padding: 0px 15px; width: 0px; height: 0px;}
+
+
+
+h2 b{ color: tan; font-size: 30px;}
+
+h5.card-title{ text-align: center; font-size: 25px;}
+h5.card2-title2{ text-align: center; font-size: 25px;}
+
+p.card-text1{font-size: 15px; ; color: tan; font-style: italic;}
+p.card2-text2{font-size: 15px; ; color: gray; font-style: italic;
+}
+div.card{width: 400px; padding: 40px 20px; margin-left: 0px; }
+div.card1{border-color: gray; width: 400px; border-width: 10px;; margin: 0px 0px;}
+
+a#link{font-size: 15px;}
+img#noresult{width: 300px; margin: 0px 0px;}
+
+
+.form-row{padding: 0px 00px; margin: 0px 40px;}
+
+a#link1{text-align:center; color: black; padding: 10px 00px ;}
+
+iframe{margin: 0px 0px;}
+
+.mainbo{ margin: 0px}
+div.card3{ padding: 10px 0px; margin-left: 50px; width: 260px;}
+a#butproduct{font-size: 15px; margin: 0px 0px; opacity: 1; background-color:#ffc107; color: white;}
+#butaccount{margin-left: 250px;}
+#butcheckout{margin-left: 200px;}
+#butconfirm{margin-left: 110px; opacity: 1; background-color: white; color: black;}
+
+textarea#exampleFormControlTextarea1{width: 300px;}
+
+a#link4{margin-left: 30px;}
+div.custom-control.custom-radio {margin: 10px 10px; }
+select#exampleFormControlSelect4{ width: 80px; margin-left: 100px;opacity: 1}
+a#butproductde{margin-left: 40px}
+
+
+
+}
